@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Andrii <img src="https://giphy.com/gifs/cartoon-3d-astronaut-VOgpnDOAddaN0zr9UE" width="35px" height="35px"></h1>
+<h1 align="center">✨ Hi there I'm Andrii <iframe src="https://giphy.com/embed/VOgpnDOAddaN0zr9UE" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-3d-astronaut-VOgpnDOAddaN0zr9UE">via GIPHY</a></p></h1>
 
 <body>
 <br>
