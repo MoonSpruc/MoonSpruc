@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Andrii <iframe src="https://giphy.com/embed/VOgpnDOAddaN0zr9UE" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h1>
+<h1 align="center">✨ Hi there I'm Andrii ![AstronautVictoryYeahGIF](https://github.com/user-attachments/assets/7b9ea4b1-d4be-488b-b0a5-f2100e0a1637)</h1>
 
 <body>
 <br>
