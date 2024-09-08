@@ -47,7 +47,7 @@ Telegram: @andrii_veliksar.
 </p>
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-<div>
+<div align = "center">
 <img src="https://media1.tenor.com/m/xfsFj7A6lJMAAAAd/galaxy.gif" align="center" />
   </div>
 <br> 
