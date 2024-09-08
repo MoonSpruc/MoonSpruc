@@ -26,7 +26,7 @@ Telegram: @andrii_veliksar.
 <br>
      
 <div>
-<h2 align="center"> 🌜 Knowledge 📖 </h2>
+<h2 align="center"> 🌲 Knowledge 📖 </h2>
 </div>
 <div align = "center">
 <p align = "justify">JavaScript is my favorite programming language, I have already written a lot of interesting things in it, if you want to know what it is, check out my repositories. I used CSharp for my practical work to create a simple program that would allow me to work with a multidimensional array. CPlusPlus and Python I started learning not long ago, we'll see what happens next.  Anyway, what I have is what I have :) .<br></p>
