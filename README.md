@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Andrii https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmhrZDJhbjdzd2Jyazc4Z25yYzg1c2pkbnhvemV1eGVsYzgzdHd2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VOgpnDOAddaN0zr9UE/giphy.gif</h1>
+<h1 align="center">✨ Hi there I'm Andrii https://media.giphy.com/media/ciwgweZDnUydJShj6H/giphy.gif</h1>
 
 <body>
 <br>
