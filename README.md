@@ -43,7 +43,6 @@ Telegram: @andrii_veliksar.
 <p align = "center">
   <a href="https://github.com/MoonSpruc"><img alt="MoonSpruc Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MoonSpruc&show_icons=true&include_all_commits=true&count_private=true&theme=merko&hide_border=true&bg_color=1f222d&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
   <a href="https://github.com/MoonSpruc"><img alt="MoonSpruc Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonSpruc&langs_count=20&layout=compact&theme=merko&hide_border=true&bg_color=1F222E&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/MoonSpruc"><img alt="MoonSpruc Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MoonSpruc&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
 </p>
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
