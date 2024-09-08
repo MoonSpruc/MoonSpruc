@@ -17,6 +17,7 @@ My Profile
 Name: Andrii Veliksar.
 WhoamI: Student 🎓.
 Gender: Male.
+Age: 18.
 Location: Izmail, Ukraine.
 Hobbies: Watch a video about Stuff 👀.
 Languages: Bash, JavaScript, CSharp(base), Python(base), CPlusPlus(base).
