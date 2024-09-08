@@ -9,7 +9,7 @@
 
 <h2 align="center"> 💬 About me 🌛 </h2>
 
-<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd1dGwxdTdnYnQ1MXZrcWZhaG9ubDNoN3A2Zm5uMDNkdTYzZHU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VOgpnDOAddaN0zr9UE/giphy.gif" width="120px"/> 
+<img align="left" src="https://images.pexels.com/photos/1122639/pexels-photo-1122639.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="120px"/> 
 
 ```csharp
 My Profile
