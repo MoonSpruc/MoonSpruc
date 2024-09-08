@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi there I'm Andrii ![AstronautVictoryYeahGIF](https://github.com/user-attachments/assets/7b9ea4b1-d4be-488b-b0a5-f2100e0a1637)</h1>
+<h1 align="center">✨ Hi there I'm Andrii ![](http://i.imgur.com/OUkLi.gif)</h1>
 
 <body>
 <br>
