@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://giphy.com/gifs/cartoon-3d-astronaut-VOgpnDOAddaN0zr9UE" width="300px">
+<img src="https://media.giphy.com/media/beL8LcE0BHsosm8cZb/giphy.gif?cid=790b76111dfqwf27g2fvspvqwtbkzhnwcffs8eobg67prazp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px">
 </div>
 <br>
 
