@@ -48,7 +48,7 @@ Telegram: @andrii_veliksar.
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div align = "center">
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d7aee51-8199-49aa-a6ff-392ff34d32f5/davewa1-03f397ef-3c71-47d8-9eb5-a791c180c8de.gif"/>
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d7aee51-8199-49aa-a6ff-392ff34d32f5/davewa1-03f397ef-3c71-47d8-9eb5-a791c180c8de.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJkN2FlZTUxLTgxOTktNDlhYS1hNmZmLTM5MmZmMzRkMzJmNVwvZGF2ZXdhMS0wM2YzOTdlZi0zYzcxLTQ3ZDgtOWViNS1hNzkxYzE4MGM4ZGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Y990kkABxxiONcsaemF4bTu0fBuRODOaOth5wOIA9Dk"/>
   </div>
 <br> 
 </div>  
