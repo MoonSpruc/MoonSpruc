@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2 align="center"> 💬 About me 🌑 </h2>
+<h2 align="center"> 💬 About me 🌛 </h2>
 
 <img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd1dGwxdTdnYnQ1MXZrcWZhaG9ubDNoN3A2Zm5uMDNkdTYzZHU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VOgpnDOAddaN0zr9UE/giphy.gif" width="120px"/> 
 
@@ -26,7 +26,7 @@ Telegram: @andrii_veliksar.
 <br>
      
 <div>
-<h2 align="center"> 🌒 Knowledge 📖 </h2>
+<h2 align="center"> 🌜 Knowledge 📖 </h2>
 </div>
 <div align = "center">
 <p align = "justify">JavaScript is my favorite programming language, I have already written a lot of interesting things in it, if you want to know what it is, check out my repositories. I used CSharp for my practical work to create a simple program that would allow me to work with a multidimensional array. CPlusPlus and Python I started learning not long ago, we'll see what happens next.  Anyway, what I have is what I have :) .<br></p>
@@ -38,7 +38,7 @@ Telegram: @andrii_veliksar.
 </div>
 <br>
 
-<h2 align = "center"> 📉 GitHub Stats 🌓 </h2>
+<h2 align = "center"> 📉 GitHub Stats 🌙 </h2>
 <div> 
 <p align = "center">
   <a href="https://github.com/MoonSpruc"><img alt="MoonSpruc Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MoonSpruc&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
