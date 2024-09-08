@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<h2 align="center"> 💬 About me 🌛 </h2>
+<h2 align="center"> 💬 About me 🌳 </h2>
 
 <img align="left" src="https://images.pexels.com/photos/3288790/pexels-photo-3288790.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="153px"/> 
 
