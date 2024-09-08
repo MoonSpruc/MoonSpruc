@@ -15,11 +15,10 @@
 My Profile
 -------------------------------
 Name: Andrii Veliksar.
-WhoamI: High School Student 🏫.
+WhoamI: Student 🎓.
 Gender: Male.
 Location: Izmail, Ukraine.
-Loves: Watch a video about Stuff 👀.
-Hobbies: Coding while I am listening music 🎶.
+Hobbies: Watch a video about Stuff 👀.
 Languages: Bash, JavaScript, CSharp(a little), Python(a little), CPlusPlus(a little).
 Learning: Software Engineering.
 Telegram: @andrii_veliksar.
@@ -33,7 +32,7 @@ Telegram: @andrii_veliksar.
 <p align = "justify">JavaScript is my favorite programming language, I have already written a lot of interesting things in it, if you want to know what it is, check out my repositories. I used CSharp for my practical work to create a simple program that would allow me to work with a multidimensional array. CPlusPlus and Python I started learning not long ago, we'll see what happens next.  Anyway, what I have is what I have :) .<br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=bash,git,github,javascript,py,cs,cpp,css,html,gulp,webpack,githubactions&perline=7"alt="My Skills"/> 
+        <img src="https://skillicons.dev/icons?i=bash,git,github,javascript,py,cs,cpp,css,html,gulp,webpack,sass,githubactions&perline=7"alt="My Skills"/> 
     </a>
 </p>
 </div>
