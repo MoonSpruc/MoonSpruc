@@ -48,7 +48,7 @@ Telegram: @andrii_veliksar.
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
-<img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
+<img src="https://media.giphy.com/media/2whb7TH1k3yv0MigEg/giphy.gif?cid=790b7611ij9g8mzw9ihofn18c1zuu71tmrpovw7ig9t631a2&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
   </div>
 <br> 
 </div>  
