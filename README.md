@@ -19,9 +19,9 @@ WhoamI: Student 🎓.
 Gender: Male.
 Location: Izmail, Ukraine.
 Hobbies: Watch a video about Stuff 👀.
-Languages: Bash, JavaScript, CSharp(a little), Python(a little), CPlusPlus(a little).
+Languages: Bash, JavaScript, CSharp(base), Python(base), CPlusPlus(base).
 Learning: Software Engineering.
-Telegram: <a href="#">@andrii_veliksar</a>.
+Telegram: @andrii_veliksar.
 ```
 <br>
      
