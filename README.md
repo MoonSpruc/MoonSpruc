@@ -48,7 +48,7 @@ Telegram: @andrii_veliksar.
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
-<img src="https://media.giphy.com/media/RJy4FQlLbxDz4kJ6GF/giphy.gif" align="center" />
+<img src="https://media.gifdb.com/beautiful-night-anime-scenery-rs6wh5fhryg13e58.gif" align="center" />
   </div>
 <br> 
 </div>  
