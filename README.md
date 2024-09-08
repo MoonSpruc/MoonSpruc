@@ -9,7 +9,7 @@
 
 <h2 align="center"> 💬 About me </h2>
 
-<img align="left" src="https://giphy.com/gifs/cartoon-3d-astronaut-VOgpnDOAddaN0zr9UE" width="120px"/> 
+<img align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd1dGwxdTdnYnQ1MXZrcWZhaG9ubDNoN3A2Zm5uMDNkdTYzZHU1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VOgpnDOAddaN0zr9UE/giphy.gif" width="120px"/> 
 
 ```csharp
 My Profile
