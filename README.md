@@ -29,7 +29,7 @@ Telegram: @andrii_veliksar.
 <h2 align="center"> 🌲 Knowledge 📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify">My favorite and primary programming language is JavaScript. I have managed to create a lot of interesting things in it. I don't use any frameworks. If you want to know what I have created, check out my repositories. Other programming languages (CSharp, CPlusPlus, Python) I used only during my studies, I didn't try them outside of it. Anyway, what I have is what I have :) . <br></p>
+<p align = "justify">My favorite and primary programming language is JavaScript. I have managed to create a lot of interesting things in it. No frameworks I do not use, only pure JavaScript I think it is more than enough for most tasks. If you want to know what I have created, check out my repositories. Other programming languages (CSharp, CPlusPlus, Python) I used only during my studies, I didn't try them outside of it. Anyway, what I have is what I have :) . <br></p>
 <p align = "center">
      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=bash,git,github,javascript,py,cs,cpp,css,html,gulp,webpack,sass,githubactions&perline=7"alt="My Skills"/> 
