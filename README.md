@@ -21,7 +21,7 @@ Location: Izmail, Ukraine.
 Hobbies: Watch a video about Stuff 👀.
 Languages: Bash, JavaScript, CSharp(a little), Python(a little), CPlusPlus(a little).
 Learning: Software Engineering.
-Telegram: @andrii_veliksar.
+Telegram: <a href="#">@andrii_veliksar</a>.
 ```
 <br>
      
