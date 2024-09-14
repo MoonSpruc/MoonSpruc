@@ -52,12 +52,3 @@ Telegram: @andrii_veliksar.
   </div>
 <br> 
 </div>  
-
-
-<br>
-<div>
-<h2 align="center">View counter 👀 (joke)</h2>
-<div align="center">
-<img src="https://moe-counter.glitch.me/get/@YT-Advanced?theme=gelbooru" />
-  </div>
-<br>
