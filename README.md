@@ -3,7 +3,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://media.giphy.com/media/KiMBUPZUhUg4HRV6PW/giphy.gif?cid=790b7611dem0j5eq8oqs784rsd1xwhhfo5s5whgj0s1l1w4x&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px">
+<img src="https://andreiquierrezhome.files.wordpress.com/2018/11/90ee8c7d852e53327dbde9fc252cf023.gif" width="300px">
 </div>
 <br>
 
