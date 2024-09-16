@@ -48,7 +48,7 @@ Telegram: @andrii_veliksar.
 <div>
 <h2 align="center"> Thank you for reading 🙋🏻‍♂️</h2>
 <div align = "center">
-<img src="https://images.pexels.com/photos/1438996/pexels-photo-1438996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
-  </div>
+  <img src="https://media.istockphoto.com/id/1437497273/vector/thank-you-black-line-lettering.jpg?s=612x612&w=0&k=20&c=3-TtEom_v0vdGxE6CLzhzlghwj6F1QrVo84v4tSoWZg="/>   
+</div>
 <br> 
 </div>  
