@@ -9,7 +9,7 @@
 
 <h2 align="center"> 💬 About me</h2>
 
-<img align="left" src="https://t3.ftcdn.net/jpg/04/27/53/38/360_F_427533870_ojZp1860zUzYnHMsMgXokeocsWZRfSpK.jpg" width="250px"/> 
+<img align="left" src="https://t3.ftcdn.net/jpg/04/27/53/38/360_F_427533870_ojZp1860zUzYnHMsMgXokeocsWZRfSpK.jpg" width="249px"/> 
           
 ```csharp
 My Profile
