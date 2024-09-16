@@ -9,7 +9,7 @@
 
 <h2 align="center"> 💬 About me</h2>
 
-<img align="left" src="https://raw.githubusercontent.com/gist/InfiniteVerma/13993a86f297c1ce72cca015ab3a29cb/raw/dc3d7693b7ce6b863b38dafbe5a23c77b616b51c/About%20Me.png" width="153px"/> 
+<img align="left" src="https://t3.ftcdn.net/jpg/04/27/53/38/360_F_427533870_ojZp1860zUzYnHMsMgXokeocsWZRfSpK.jpg" width="153px"/> 
           
 ```csharp
 My Profile
