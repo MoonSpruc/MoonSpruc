@@ -21,7 +21,7 @@ Free time: Watch videos, movies, exercising, taking walks, joking around with fr
 -------------------------------
 Work Part
 -------------------------------
-Languages: Bash, JavaScript, CSharp(base), Python(base), CPlusPlus(base).
+Languages: Bash, JavaScript, CSharp(base), Python(base), CPlusPlus(base), Rust(base).
 Learning: Software Engineering.
 Telegram: @andrii_veliksar.
 ```
