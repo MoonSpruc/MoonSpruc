@@ -1,56 +1,33 @@
-<h1 align="center"> Hi there I'm Andrii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+# 🙎‍♂️ Andrii Veliksar
 
-<body>
-<br>
-<div align="center">
-  <img src="https://andreiquierrezhome.files.wordpress.com/2018/11/90ee8c7d852e53327dbde9fc252cf023.gif" width="300px">
-</div>
-<br>
+**`Chill Guy (Developer)`**
 
-<h2 align="center"> About me</h2>
-          
-```csharp
-Lifestyle
--------------------------------
-Name: Andrii Veliksar.
-WhoamI: Student 🎓.
-Gender: Male.
-Age: 18.
-Location: Izmail, Ukraine.
-Free time: Watch videos, movies, exercising, taking walks, joking around with friends.
--------------------------------
-Work Part
--------------------------------
-Languages: Bash, JavaScript, CSharp(base), Python(base), CPlusPlus(base), Rust(base).
-Learning: Software Engineering.
-Telegram: @andrii_veliksar.
-```
-<br>
-     
-<div>
-  <h2 align="center"> Knowledge 🙂 </h2>
-</div>
-<div align = "center">
-  <p align = "justify">My favorite and primary programming language is JavaScript. I have managed to create a lot of interesting things in it. No frameworks I do not use, only pure JavaScript I think it is more than enough for most tasks. If you want to know what I have created, check out   my repositories. Other programming languages (CSharp, CPlusPlus, Python) I used only during my studies, I didn't try them outside of it. Anyway, what I have is what I have :) . <br>
-  </p>
-  <p align = "center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,git,github,githubactions,gulp,webpack,bash,py,cs,cpp,rust&perline=7"alt="My Skills"/> 
-    </a>
-  </p>
-</div>
-<br>
+I'm a frontend developer focused on using pure JavaScript, which I use for most tasks. For styling projects I prefer to work with SCSS, which allows me to speed up the development process and increase the readability of styles.
 
-<h2 align = "center"> 📉 GitHub Stats </h2>
-<div> 
-  <p align = "center">
-    <a href="https://github.com/MoonSpruc"><img alt="MoonSpruc Github Stats" src="https://github-readme-stats.vercel.app/api/?username=MoonSpruc&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
-    <a href="https://github.com/MoonSpruc"><img alt="MoonSpruc Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonSpruc&langs_count=20&layout=compact&theme=vue-dark&hide_border=true&bg_color=1F222E&icon_color=F8D866" height="192px"/></a>
-  </p>
-<div>
-<h2 align="center"> Thank you for reading </h2>
-<div align = "center">
-  <img src="https://media.istockphoto.com/id/1437497273/vector/thank-you-black-line-lettering.jpg?s=612x612&w=0&k=20&c=3-TtEom_v0vdGxE6CLzhzlghwj6F1QrVo84v4tSoWZg="/>   
-</div>
-<br> 
-</div>  
+I also use Gulp and Webpack to automate routine tasks such as setting fonts, adding vendor prefixes, and other small tasks to help streamline my workflow.
+
+On this profile, I share my projects. My goal is to provide quality solutions and demonstrate approaches to website development.
+
+<p align="left">
+  <a href="https://www.instagram.com/andrei_veliksar_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-a32972?style=for-the-badge&logo=instagram&logoColor=white&labelColor=db148c" target="_blank" />
+  </a>
+  <a href="https://t.me/andrii_veliksar" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0167a2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0790df" target="_blank" />
+  </a>
+  <a href="mailto:sofaproject77@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-991f1d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c52c2a" target="_blank" />
+  </a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+
+<a href="#">
+  <img width="450px" src="https://skillicons.dev/icons?i=html,css,sass,javascript,git,github,gulp,webpack,windows,linux"alt="My Skills"/>
+</a>
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonSpruc&show_icons=true&theme=gruvbox)
