@@ -1,33 +1,12 @@
-# 🙎‍♂️ Andrii Veliksar
+<h1>Hey there! 👋😊</h1>
 
-**`Chill Guy (Developer)`**
+I'm Andrii, a front-end developer based in Ukraine.
 
-I'm a frontend developer focused on using pure JavaScript, which I use for most tasks. For styling projects I prefer to work with SCSS, which allows me to speed up the development process and increase the readability of styles.
+My main tech stack is javascript, html, css, scss. My favourite tools are figma, gulp, webpack.
 
-I also use Gulp and Webpack to automate routine tasks such as setting fonts, adding vendor prefixes, and other small tasks to help streamline my workflow.
+Some of my favorite projects <a href='https://moonspruc.github.io/AfricanFacets/'>First,</a> <a href='https://moonspruc.github.io/Portfolio/'>Second (it's my portfolio)</a>.
 
-On this profile, I share my projects. My goal is to provide quality solutions and demonstrate approaches to website development.
+I've built 7 public repos and have 5 private ones.
 
-<p align="left">
-  <a href="https://www.instagram.com/andrei_veliksar_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-a32972?style=for-the-badge&logo=instagram&logoColor=white&labelColor=db148c" target="_blank" />
-  </a>
-  <a href="https://t.me/andrii_veliksar" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0167a2?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0790df" target="_blank" />
-  </a>
-  <a href="mailto:sofaproject77@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-991f1d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c52c2a" target="_blank" />
-  </a>
-</p>
+If you want to get in <a href='https://t.me/taigaiao'>touch with me</a>.
 
----
-
-### 🧰 Languages and Tools
-
-<a href="#">
-  <img width="450px" src="https://skillicons.dev/icons?i=html,css,sass,javascript,git,github,gulp,webpack,windows,linux"alt="My Skills"/>
-</a>
-
-### 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoonSpruc&show_icons=true&theme=gruvbox)
